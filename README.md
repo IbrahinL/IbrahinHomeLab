@@ -17,7 +17,7 @@ This is a documentation of my Home lab, using Ubuntu Linux distribution.
   <summary><b>📷 Click to expand / see screenshots</b></summary>
   <br>
   <p align="center">
-    <img src="https://path-to-your-image1.jpg" alt="First Slide" width="600">
+    <img src="https://C:\Users\leole\OneDrive\Pictures\Screenshots" width="600">
     <br><br>
     <img src="https://path-to-your-image2.jpg" alt="Second Slide" width="600">
   </p>
